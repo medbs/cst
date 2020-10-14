@@ -1,1 +1,0 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/sefirosu/sefirosu/projects/cruxsoft/cst","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
